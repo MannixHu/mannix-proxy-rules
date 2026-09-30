@@ -1,0 +1,5 @@
+# 通用直连规则（Surge / Clash classical 通用，一行一条，不写策略）
+# 仅放可公开的域名；IP、内网段、个人服务域名留在 sublinkpro 模板里。
+
+# LINUX DO 邀请码入口（限国内 IP，须直连）
+DOMAIN,invite.linuxdo.org
